@@ -2,6 +2,8 @@
 
 This is the first project I have worked on with Python. In this project, I created a two player air hockey game controlled with wasd and the arrow keys.
 
+[Play Air Hockey](https://academy.cs.cmu.edu/sharing/midnightBlueFish775507)
+
 Features
 - Movements using wasd and arrow keys.
 - Physics for the hockey puck including collisions and friction.
