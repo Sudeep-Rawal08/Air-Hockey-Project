@@ -4,22 +4,24 @@ This is the first project I have worked on with Python. In this project, I creat
 
 [Play Air Hockey](https://academy.cs.cmu.edu/sharing/midnightBlueFish775507)
 
-Features
+# Features
 - Movements using wasd and arrow keys.
 - Physics for the hockey puck including collisions and friction.
 - Score Keeping.
 
-Technologies
+# Technologies
 - Python
 - CMU CS Academy
 - cmu_graphics
 
-Screenshots
+# Screenshots
 
 ![AirHockey Screenshot](screenshots/nameA.png)
 ![AirHockey Screenshot](screenshots/NameB.png)
 
 ![AirHockey Screenshot](screenshots/GamePlay.png)
+
+# Reflection
 - During this project, I wasn't able to work with many integral parts of programming.
 - However, I've learned many things since the creation of this project.
 - One of the biggest problems that I was unable to solve in this project was the puck clipping through the walls.
